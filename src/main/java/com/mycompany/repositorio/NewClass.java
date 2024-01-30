@@ -9,6 +9,6 @@ package com.mycompany.repositorio;
  * @author CCCU
  */
 public class NewClass {
-    int xxx;
+    int yyy;
     
 }
